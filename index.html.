@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="nl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>We Wok Menukaart</title>
+  <style>
+    body {
+      margin: 0;
+      background: #f8e5c1;
+    }
+
+    main {
+      max-width: 1600px;
+      margin: 0 auto;
+    }
+
+    img {
+      display: block;
+      width: 100%;
+      height: auto;
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <img
+      src="e7811d94-0a84-4493-bf34-0d7d44dce5da.JPG"
+      alt="Menukaart met friet en snacks"
+    >
+    <img
+      src="dc551045-f1c2-4f2c-9c36-d51b37ee329e.JPG"
+      alt="Menukaart met Chinese gerechten"
+    >
+  </main>
+</body>
+</html>
